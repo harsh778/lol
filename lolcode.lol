@@ -150,10 +150,10 @@ HAI 1.3
                 gamewon R WIN
                 BOTH SAEM MOD OF movenumber AN 2 AN 1, O RLY?
                     YA RLY
-                        VISIBLE ":)NICE PLAYER 1 WINSSSS!!!!!!, PLAYER 2 U R SUCKKERRRRRR:)"
+                        VISIBLE ":)NICE PLAYER 1 WINSSSS!!!!!!, PLAYER 2 HAS A SAD LYF:)"
                         GTFO
                     NO WAI
-                        VISIBLE ":)NICE PLAYER 2 WINSSSS!!!!!!, PLAYER 1 U R SUCKKERRRRRR:)"
+                        VISIBLE ":)NICE PLAYER 2 WINSSSS!!!!!!, PLAYER 1 HAS A SAD LYF:)"
                         GTFO
                 OIC
         OIC
@@ -162,7 +162,7 @@ HAI 1.3
     DIFFRINT gamewon AN WIN, O RLY?
         YA RLY
             I IZ print YR board MKAY
-            VISIBLE ":)NICE NONE OF U WIN U BOTH SUCCKKKKERRRSSSSSSS"
+            VISIBLE ":)NICE NONE OF U WIN! SAD LIFE"
         NO WAI
             VISIBLE "BRUH GGGGGG"
     OIC
